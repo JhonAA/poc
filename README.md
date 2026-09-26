@@ -12,5 +12,28 @@ _This is all **plain** text_.
 # This is H1 text
 
 link de imagenes ! [ ] (path image) Link an image.
-![linkimage](/poc/47132645.jpg)
+![linkimage](/poc/47192645.jpg) <br />
 link de imagenes [ ] (url) Link to Microsoft Training
+
+lista con numeros:
+
+1. First
+1. Second
+1. Third
+
+- First
+  - Nested
+- Second
+- Third
+
+tables
+
+First|Second
+-|-
+1|2 _prueba_
+3|4 **prueba**
+
+
+
+
+
