@@ -12,5 +12,5 @@ _This is all **plain** text_.
 # This is H1 text
 
 link de imagenes ! [ ] (path image) Link an image.
-![linkimage](/poc/47132645.png)
+![linkimage](/poc/47132645.jpg)
 link de imagenes [ ] (url) Link to Microsoft Training
