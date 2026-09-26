@@ -12,8 +12,9 @@ _This is all **plain** text_.
 # This is H1 text
 
 link de imagenes ! [ ] (path image) Link an image.
-![linkimage](/poc/47192645.jpg) <br />
-link de imagenes [ ] (url) Link to Microsoft Training
+![linkimage](/poc/47192645.jpg)
+
+<br />link de imagenes [ ] (url) Link to Microsoft Training
 
 lista con numeros:
 
