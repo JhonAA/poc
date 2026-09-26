@@ -37,9 +37,24 @@ First|Second
 1.1 asd
 1.2 ads
 1.3 das
+
 2. das
 2. das
-2. das
+2. ddas
+
+prueba con \'
+```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+indicando el lenguaje
+``` javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
+/table kjhkjhkh
 
 
 
